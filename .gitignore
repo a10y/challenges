@@ -1,0 +1,4 @@
+# Project-wide ignores
+
+*.swp
+__pycache__
