@@ -1,5 +1,5 @@
-from ..graph.graph import UndirectedEdge, Graph, Node
-from .algorithms import is_bipartite
+from graph.graph import UndirectedEdge, Graph, Node
+from algorithms import is_bipartite
 
 def construct_bp_network():
     network = Graph()

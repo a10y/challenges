@@ -1,4 +1,4 @@
-from ..graph.graph import Node, Edge, Graph
+from graph.graph import Node, Edge, Graph
 from queue import Queue
 
 def is_bipartite(network):
